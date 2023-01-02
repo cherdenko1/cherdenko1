@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me: 
 -   markanthony.enfermo@gmail.com
--   +639455308648
+-   
 
 <!---
 cherdenko1/cherdenko1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
